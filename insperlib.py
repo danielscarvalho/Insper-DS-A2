@@ -8,3 +8,6 @@ def 평균(a, b):
 
 def last(lista):
     return lista[-1]
+
+def first(lista):
+    return lista[1]

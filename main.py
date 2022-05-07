@@ -8,6 +8,7 @@ print(il.add(10,22))
 
 print(il.first(lst))
 print(il.last(lst))
-print(il.mean(lst))
+print(il.평균(lst))
+#print(il.mean(lst))
 
 #print(lst)
